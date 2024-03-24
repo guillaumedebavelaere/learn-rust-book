@@ -16,6 +16,11 @@ Local doc:
 rustup doc
 ```
 
+Generate local doc for the project and its dependencies:
+```bash
+cargo doc --open
+```
+
 
 
 
